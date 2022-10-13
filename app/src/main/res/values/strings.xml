@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parkqueue</string>
+    <string name="splash_screen_title">Parkqueue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register_prompt">Don\'t have an account?</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="register">Register</string>
+</resources>
